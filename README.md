@@ -3,6 +3,10 @@
 This is a Django-based REST API project developed as part of the assignment for **Nimap Infotech**. It manages **Users**, **Clients**, and **Projects**, with token-based authentication and user-specific project access.
 
 ---
+### screenshorts
+![WhatsApp Image 2025-07-20 at 7 15 24 PM](https://github.com/user-attachments/assets/ca644d92-b5f6-43a9-8021-4529e85d41bd)
+
+
 
 ## 🚀 Features
 
@@ -88,6 +92,7 @@ nimap_company_management_system/
 ├── requirements.txt
 └── README.md
 -----
+```
 ### screenshorts
 ![WhatsApp Image 2025-07-20 at 5 35 17 PM](https://github.com/user-attachments/assets/72ec5013-6ff7-40b0-bd44-fb7c4d481307)
 ![WhatsApp Image 2025-07-20 at 5 34 20 PM](https://github.com/user-attachments/assets/f557af6f-24b3-41f5-b7c8-0e3d97ddfd05)
