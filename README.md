@@ -25,8 +25,6 @@ This is a Django-based REST API project developed as part of the assignment for 
 - Token Authentication (DRF)
 
 ---
-### screenshorts
-![WhatsApp Image 2025-07-20 at 5 35 17 PM](https://github.com/user-attachments/assets/f7d73a5c-1121-438d-9471-87d6a593a9c0)
 
 ## 🛠️ Setup Instructions
 
@@ -89,4 +87,19 @@ nimap_company_management_system/
 ├── manage.py
 ├── requirements.txt
 └── README.md
+-----
+### screenshorts
+![WhatsApp Image 2025-07-20 at 5 35 17 PM](https://github.com/user-attachments/assets/72ec5013-6ff7-40b0-bd44-fb7c4d481307)
+![WhatsApp Image 2025-07-20 at 5 34 20 PM](https://github.com/user-attachments/assets/f557af6f-24b3-41f5-b7c8-0e3d97ddfd05)
+![WhatsApp Image 2025-07-20 at 5 48 36 PM](https://github.com/user-attachments/assets/3e8857ef-21a4-4bca-9706-8b93f944b5f3)
+![WhatsApp Image 2025-07-20 at 6 16 22 PM](https://github.com/user-attachments/assets/2441cd0d-0977-439c-8124-acf0658e3e86)
+![WhatsApp Image 2025-07-20 at 7 05 14 PM](https://github.com/user-attachments/assets/6f582b7c-2f3f-4629-8ab1-0f744b871f6e)
+![WhatsApp Image 2025-07-20 at 7 07 39 PM](https://github.com/user-attachments/assets/e42cec3f-ffb6-4cc0-8580-353cd8ccdf54)
+![WhatsApp Image 2025-07-20 at 7 15 24 PM](https://github.com/user-attachments/assets/8f470c2d-b806-4a81-a85b-f56b9e9f997f)
+
+
+
+
+
+
 
