@@ -3,10 +3,6 @@
 This is a Django-based REST API project developed as part of the assignment for **Nimap Infotech**. It manages **Users**, **Clients**, and **Projects**, with token-based authentication and user-specific project access.
 
 ---
-### screenshorts
-![WhatsApp Image 2025-07-20 at 7 15 24 PM](https://github.com/user-attachments/assets/ca644d92-b5f6-43a9-8021-4529e85d41bd)
-
-
 
 ## 🚀 Features
 
