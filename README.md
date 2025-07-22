@@ -25,6 +25,8 @@ This is a Django-based REST API project developed as part of the assignment for 
 - Token Authentication (DRF)
 
 ---
+### screenshorts
+![WhatsApp Image 2025-07-20 at 5 35 17 PM](https://github.com/user-attachments/assets/f7d73a5c-1121-438d-9471-87d6a593a9c0)
 
 ## 🛠️ Setup Instructions
 
